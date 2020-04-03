@@ -228,7 +228,7 @@ Abbr: "warm",
 route: "orange, green"
 },
 {
-statioName: "Walnut Creek",
+stationName: "Walnut Creek",
 Abbr: "wcrk",
 route: "Yellow"
 },
@@ -238,7 +238,7 @@ Abbr: "wdud",
 route: ""
 },
 {
-statioName: "West Oakland",
+stationName: "West Oakland",
 Abbr: "woak",
 route: "red, yellow, blue, green"
 }
